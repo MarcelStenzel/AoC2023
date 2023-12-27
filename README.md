@@ -6,7 +6,7 @@ State:\
 Day &ensp;1 **\
 Day &ensp;2 **\
 Day &ensp;3 *-\
-Day &ensp;4 *-\
+Day &ensp;4 **\
 Day &ensp;5 --\
 Day &ensp;6 --\
 Day &ensp;7 --\
